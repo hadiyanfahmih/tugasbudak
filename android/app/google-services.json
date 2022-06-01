@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "10526612498",
+    "project_id": "hotelrisma-434d0",
+    "storage_bucket": "hotelrisma-434d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10526612498:android:1e00025dcdb317dce9cccb",
+        "android_client_info": {
+          "package_name": "com.example.bookinghotel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10526612498-f9bnp9oflh2dm7j3du8u9mnupp7moj1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNkkRnHR1cmPG6ObRPQmbaaGBZhKOkRBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10526612498-f9bnp9oflh2dm7j3du8u9mnupp7moj1l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
